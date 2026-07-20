@@ -91,6 +91,6 @@ java -jar dist/ConversorGrafos.jar
 
 ## Autor
 
-**Brian Arciniegas** — [Ingenieria Informatica], [UNEG]
-Asignatura: [Tecnicas de Programación III] — Prof. [Dubraska Roca]
-Sección [2]
+**Brian Arciniegas** — Ingenieria Informatica, UNEG
+Asignatura: Tecnicas de Programación III — Prof. Dubraska Roca
+- Sección  2
