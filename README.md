@@ -91,4 +91,6 @@ java -jar dist/ConversorGrafos.jar
 
 ## Autor
 
-Proyecto académico — Conversor Universal de Estructuras de Grafos.
+**Brian Arciniegas** — [Ingenieria Informatica], [UNEG]
+Asignatura: [Tecnicas de Programación III] — Prof. [Dubraska Roca]
+Sección [2]
