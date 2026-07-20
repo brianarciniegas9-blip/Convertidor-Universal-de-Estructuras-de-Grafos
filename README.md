@@ -46,8 +46,8 @@ java -version
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/<nombre-del-repositorio>.git
-cd <nombre-del-repositorio>
+git clone https://github.com/brianarciniegas9-blip/Convertidor-Universal-de-Estructuras-de-Grafos.git
+cd Convertidor-Universal-de-Estructuras-de-Grafos
 ```
 
 ### 2. Ejecutar el proyecto
